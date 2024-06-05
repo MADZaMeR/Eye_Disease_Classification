@@ -14,13 +14,11 @@ Bu depo, derin öğrenme tekniklerini kullanarak göz hastalıklarını tespit e
 
 1. **Depoyu klonlayın**:
     ```bash
-    git clone https://github.com/kullaniciadiniz/goz-hastaligi-tespiti.git
+    git clone https://github.com/kullaniciadiniz/Eye_Disease_Classification.git
     ```
-2. **Gerekli bağımlılıkları yükleyin**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Jupyter Notebook'u çalıştırın**:
+**Gerekli bağımlılıkları yükleyin**
+
+2. **Jupyter Notebook'u çalıştırın**:
     Notebook'u açın ve verileri ön işleme, modeli eğitme ve performansını değerlendirme adımlarını izleyin.
 
 ## Veri Seti
